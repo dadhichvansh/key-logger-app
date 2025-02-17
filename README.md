@@ -23,7 +23,11 @@ The **Key Logger App** is a simple web application that logs keypress events. It
    ```sh
    cd key-logger-app
    ```
-3. Open `index.html` in a web browser.
+3. Run the project:
+   ```
+   npm run dev
+   ```
+   (You can use any of the package managers such as npm, pnpm, bun, etc.)
 
 ## Usage
 1. Click the **Start Logging Keypresses** button to begin capturing key events.
